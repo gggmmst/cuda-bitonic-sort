@@ -22,7 +22,7 @@ $ ./bsort
  0: 1804289383
  4: 1957747793
 
-# generate 25 random unsigned ints
+#         vv----- user input 25: gen 25 random uints, then sort, then print to stdout
 $ ./bsort 25
 20: 35005211
 22: 294702567
